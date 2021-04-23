@@ -1,7 +1,13 @@
 h1, p {
   font-family: Lato;
 }
+
+h1{
+  color: #fff;
+}
+
 ul {
+
   padding: 0;
   margin:10px 0 0 0;
 }
@@ -9,10 +15,13 @@ li {
   list-style-type: none;
   padding: 10px;
   margin: 10px;
-  background-color:rgba(167, 8, 159, 0.411);
+  background-color: pink;
   border-radius: 10px;
 }
 form {
   margin: 10px;
 }
 
+body {
+  background-color: rgb(73, 4, 73);
+}
