@@ -49,7 +49,7 @@ function ContactManager(props) {
     </div>
   );
 }
-const contacts = ["James Smith", "Thomas Anderson", "Bruce Wayne"];
+const contacts = [];
 
 ReactDOM.render(
   <ContactManager data={contacts} />, 
